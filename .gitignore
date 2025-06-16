@@ -153,3 +153,5 @@ venv.bak/
 *.gff
 # bed file
 *.bed
+
+*.zip
