@@ -155,3 +155,11 @@ venv.bak/
 *.bed
 
 *.zip
+
+*.txt
+*.csv
+*.tsv
+*.json
+*.xml
+*.yaml
+*.yml
