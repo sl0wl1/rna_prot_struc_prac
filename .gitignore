@@ -163,3 +163,17 @@ venv.bak/
 *.xml
 *.yaml
 *.yml
+
+*.fa
+
+Asgard*
+DPANN*
+Euryarchaeota*
+TACK*
+
+*.aln
+*.pp
+*.stk
+*.ps
+*.matrix
+*.tree
