@@ -2,7 +2,7 @@
 
 # Loop over all .fasta files in the current directory
 for file in *.fasta; do
-    # Check if the file exists 
+    # Check if the file exists to avoid wildcard issues
     [ -e "$file" ] || continue
 
     # Run mlocarna and capture the full output

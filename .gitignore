@@ -155,6 +155,7 @@ venv.bak/
 *.bed
 
 *.zip
+*.tgz
 
 *.txt
 *.csv
@@ -177,3 +178,4 @@ TACK*
 *.ps
 *.matrix
 *.tree
+*.png
